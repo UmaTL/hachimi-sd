@@ -1,0 +1,17 @@
+{
+  "base_url": "https://raw.githubusercontent.com/UmaTL/hachimi-sd/release/localized_data",
+  "zip_url": "https://codeload.github.com/UmaTL/hachimi-sd/zip/refs/heads/release",
+  "zip_dir": "hachimi-sd-release/localized_data",
+  "files": [
+    {
+      "path": "config.json",
+      "hash": "8ea5bd8b3a4025d5568f0603b89566f941aa3a6c9bf41ed9800a7841f99aa3f2",
+      "size": 478
+    },
+    {
+      "path": "text_data_dict.json",
+      "hash": "c98c650b854122322ea35d72ebe27c3665fcaa66ebc0f3f319928c4beb57f437",
+      "size": 310090
+    }
+  ]
+}
