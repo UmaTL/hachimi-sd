@@ -1772,6 +1772,26 @@
         "110902111": "$(scale 70)<b>Current Speed (natural decel) +0.45 m/s, Current HP +3.5% for 3 s</b> when: Mile AND After 50% distance (random) OR Medium AND After 50% distance (random)",
         "110902211": "$(scale 70)<b>Acceleration +0.4 m/s² for 3 s</b> when: Leader AND Downhill",
         "111301111": "$(scale 70)<b>Target Speed +0.55 m/s for 2.4 s</b> when: Medium AND Middle leg (random) AND In leading 50% AND Race distance 2200 m\n<b>Target Speed +0.45 m/s for 2.4 s</b> when: Medium AND Middle leg (random) AND In leading 50%",
-        "111301211": "$(scale 70)<b>Acceleration +0.5 m/s², Current HP -2% for 1.8 s</b> when: Leader AND Medium AND In leading 50% AND Final leg first quarter (random) AND Race distance 2200 m\n<b>Acceleration +0.5 m/s² for 1.8 s</b> when: Leader AND Medium AND In leading 50% AND Final leg first half (random) AND Race distance ≠2200 m"
+        "111301211": "$(scale 70)<b>Acceleration +0.5 m/s², Current HP -2% for 1.8 s</b> when: Leader AND Medium AND In leading 50% AND Final leg first quarter (random) AND Race distance 2200 m\n<b>Acceleration +0.5 m/s² for 1.8 s</b> when: Leader AND Medium AND In leading 50% AND Final leg first half (random) AND Race distance ≠2200 m",
+        "100971": "$(scale 70)<b>Acceleration +0.4 m/s² for 4 s</b> when: Medium AND Used skill Impulse AND Final leg or later AND In corner\n<b>Target Speed +0.45 m/s for 5 s</b> when: In trailing 80% AND In leading 70% AND Remaining distance ≥299m AND Remaining distance ≤301m",
+        "203781": "$(scale 70)<b>All stats +20 indefinitely</b> when: Betweener AND Turf",
+        "203791": "$(scale 70)<b>Current Speed (natural decel) +0.35 m/s for 3 s</b> when: Mile AND Corner 3 (random) AND In trailing 60% OR Medium AND Corner 3 (random) AND In trailing 60%",
+        "203792": "$(scale 70)<b>Current Speed (natural decel) +0.15 m/s for 3 s</b> when: Mile AND Corner 3 (random) AND In trailing 60% OR Medium AND Corner 3 (random) AND In trailing 60%",
+        "203801": "$(scale 70)<b>Target Speed +0.25 m/s for 2.4 s</b> when: Mile AND Middle leg (random) OR Medium AND Middle leg (random)\n<b>Current Speed (natural decel) +0.25 m/s for 2.4 s</b> when: Activated trigger 1 AND Final leg (random)",
+        "203802": "$(scale 70)<b>Target Speed +0.05 m/s for 2.4 s</b> when: Mile AND Middle leg (random) OR Medium AND Middle leg (random)\n<b>Current Speed (natural decel) +0.05 m/s for 2.4 s</b> when: Activated trigger 1 AND Final leg (random)",
+        "203812": "$(scale 70)<b>Speed stat +40 indefinitely</b> when: Betweener AND Medium AND Base speed ≥1200 AND Base power ≥1200\n<b>Speed stat +20 indefinitely</b> when: Betweener AND Medium AND Base speed ≥1200 AND Base power ﹤1200",
+        "203822": "$(scale 70)<b>Current Speed (natural decel) +0.25 m/s for 2.4 s</b> when: Betweener AND Medium AND Final leg or later AND On final straight <color=#29b39e>after</color>: After 66% distance AND Stayed in trailing 60%\n<b>Current Speed (natural decel) +0.15 m/s for 2.4 s</b> when: Betweener AND Medium AND Final leg or later AND On final straight",
+        "203831": "$(scale 70)<b>Acceleration +0.4 m/s² for 1.2 s</b> when: Betweener AND Medium AND Final leg first quarter (random) AND In trailing 60%",
+        "203832": "$(scale 70)<b>Acceleration +0.2 m/s² for 1.2 s</b> when: Betweener AND Medium AND Final leg first quarter (random) AND In trailing 60%",
+        "203841": "$(scale 70)<b>Target Speed +0.25 m/s for 4 s</b> when: Medium AND Middle leg (random) AND In trailing 60%",
+        "203842": "$(scale 70)<b>Target Speed +0.05 m/s for 4 s</b> when: Medium AND Middle leg (random) AND In trailing 60%",
+        "203851": "$(scale 70)<b>Target Speed +0.35 m/s for 2.4 s</b> when: Middle leg (random)",
+        "203852": "$(scale 70)<b>Target Speed +0.15 m/s for 2.4 s</b> when: Middle leg (random)",
+        "203861": "$(scale 70)<b>Current Speed (natural decel) +0.35 m/s for 3 s</b> when: Medium AND Middle leg or earlier AND Overtaken AND 5s passed OR Medium AND Middle leg or earlier AND Blocked (side) for ≥2s AND 5s passed",
+        "203862": "$(scale 70)<b>Current Speed (natural decel) +0.15 m/s for 3 s</b> when: Medium AND Middle leg or earlier AND Overtaken AND 5s passed OR Medium AND Middle leg or earlier AND Blocked (side) for ≥2s AND 5s passed",
+        "900971": "$(scale 70)<b>Target Speed +0.25 m/s for 3 s</b> when: In trailing 80% AND In leading 70% AND Remaining distance ≥299m AND Remaining distance ≤301m",
+        "109701111": "$(scale 70)<b>Current Speed (natural decel) +0.55 m/s for 3 s</b> when: Mile AND Corner 3 (random) AND Used skill Impulse OR Medium AND Corner 3 (random) AND Used skill Impulse",
+        "109701211": "$(scale 70)<b>Current Speed (natural decel) +0.45 m/s for 2.4 s</b> when: Medium AND Middle leg AND Uphill\n<b>Current Speed (natural decel) +0.25 m/s, Acceleration +0.2 m/s² for 2.4 s</b> when: Activated trigger 1 AND Middle leg AND Downhill AND After 60% distance AND Used skill Impulse",
+        "109701221": "$(scale 70)<b>Target Speed +0.25 m/s for 2.4 s</b> when: Mile AND Middle leg (random) OR Medium AND Middle leg (random)\n<b>Current Speed (natural decel) +0.35 m/s, Acceleration +0.1 m/s² for 2.4 s</b> when: Activated trigger 1 AND Final leg first quarter (random) AND Used skill Impulse"
     }
 }
