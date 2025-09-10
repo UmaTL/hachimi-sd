@@ -1810,6 +1810,15 @@
         "109302111": "$(scale 70)<b>Target Speed +0.55 m/s for 2.4 s</b> when: Leader AND Middle leg (random) AND Sprint\n<b>Target Speed +0.45 m/s, Current HP -2% for 2.4 s</b> when: Leader AND Middle leg (random)",
         "109302211": "$(scale 70)<b>Current Speed (natural decel) +0.15 m/s to team, Target Speed +0.35 m/s for 2.4 s</b> when: Sprint AND Overtaking AND 5s passed",
         "110602111": "$(scale 70)<b>Target Speed +0.45 m/s for 3 s</b> (CD 30.0s) when: Close behind opponent for 3s AND 10s passed",
-        "110602211": "$(scale 70)<b>Acceleration +0.3 m/s², Current Speed (natural decel) +0.45 m/s for 1.8 s</b> when: Last spurt endurance good AND Betweener AND Medium AND Final leg first quarter (random) AND In trailing 60% AND Downhill\n<b>Acceleration +0.3 m/s² for 1.8 s</b> when: Betweener AND Medium AND Final leg first quarter (random) AND In trailing 60%"
+        "110602211": "$(scale 70)<b>Acceleration +0.3 m/s², Current Speed (natural decel) +0.45 m/s for 1.8 s</b> when: Last spurt endurance good AND Betweener AND Medium AND Final leg first quarter (random) AND In trailing 60% AND Downhill\n<b>Acceleration +0.3 m/s² for 1.8 s</b> when: Betweener AND Medium AND Final leg first quarter (random) AND In trailing 60%",
+        "100811": "$(scale 70)<b>Current Speed (natural decel) +0.35 m/s, Acceleration +0.1 m/s² for 4 s</b> when: Runner AND Final leg or later AND In corner AND Dirt OR Leader AND Final leg or later AND In corner AND Dirt\n<b>Current Speed (natural decel) +0.25 m/s for 4 s</b> when: Runner AND Final leg or later AND In corner OR Leader AND Final leg or later AND In corner",
+        "203911": "$(scale 70)<b>Target Speed +0.35 m/s for 3 s</b> when: Middle leg (random) AND Betweener AND Sprint AND In trailing 60%",
+        "203912": "$(scale 70)<b>Target Speed +0.15 m/s for 3 s</b> when: Middle leg (random) AND Betweener AND Sprint AND In trailing 60%",
+        "203922": "$(scale 70)<b>Target Speed +0.15 m/s for 2.4 s</b> when: Sprint AND Middle leg (random) AND In trailing 60%",
+        "203972": "$(scale 70)<b>Target Speed +0.25 m/s, Current HP -2% for 2.4 s</b> when: Dirt AND In leading 50% AND Middle leg (random)",
+        "203982": "$(scale 70)<b>Current Speed (natural decel) +0.15 m/s for 3 s</b> when: Dirt AND Corner 3 (random) AND In leading 50%",
+        "900811": "$(scale 70)<b>Current Speed (natural decel) +0.05 m/s for 2.4 s</b> when: Runner AND Final leg or later AND In corner OR Leader AND Final leg or later AND In corner",
+        "108101111": "$(scale 70)<b>Acceleration +0.4 m/s² for 1.8 s</b> when: In leading 50% AND Dirt AND Final leg first quarter (random) AND Race distance ≤1800 m\n<b>Acceleration +0.4 m/s² for 1.8 s</b> when: In leading 50% AND Dirt AND Final leg first half (random) AND Race distance ﹥1800 m",
+        "108101211": "$(scale 70)<b>Target Speed +0.45 m/s, Current HP -2% for 4 s</b> when: Dirt AND Middle leg (random)"
     }
 }
