@@ -6,13 +6,28 @@
     "race_jikkyo_comment_dict": null,
     "race_jikkyo_message_dict": null,
 
-    "text_wrapper": 1,
     "use_text_wrapper": true,
-    "line_width_multiplier": 1.85,
+    "line_width_multiplier": 1.9,
+    "wrapper_penalties": {
+        "nline_penalty": 18,
+        "overflow_penalty": 9,
+        "short_last_line_fraction": 4,
+        "short_last_line_penalty": 18,
+        "hyphen_penalty": 0
+    },
+    "skill_formatting": {
+        "name_length": 16,
+        "desc_length": 22,
+        "name_short_lines": 2,
+
+        "name_short_mult": 0.75,
+        "name_sp_mult": 0.7
+    },
 
     "auto_adjust_story_clip_length": false,
     "skill_list_item_desc_font_size_multiplier": 0.9,
     "now_loading_comic_title_ellipsis": false,
+    "remove_ruby": false,
 
-    "remove_ruby": false
+    "news_url": "https://hachimi.leadrdrk.com/PakaNews/"
 }
