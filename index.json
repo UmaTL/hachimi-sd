@@ -5,13 +5,13 @@
   "files": [
     {
       "path": "config.json",
-      "hash": "8ea5bd8b3a4025d5568f0603b89566f941aa3a6c9bf41ed9800a7841f99aa3f2",
-      "size": 478
+      "hash": "7aef28dab8acf2c23a5966d11d412683ba9ab025c6354b57078e842189beac6e",
+      "size": 892
     },
     {
       "path": "text_data_dict.json",
-      "hash": "4e6c9f0d4c26c158c950ba0bb172fa7b9e05fe39e5c709a311ef3765ba47e533",
-      "size": 327260
+      "hash": "cc338c540ef5e230aebed371bad6a7b3645236ed1e4ecbd8db6c45682cc837f5",
+      "size": 328724
     }
   ]
 }
