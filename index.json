@@ -1,6 +1,6 @@
 {
-  "base_url": "https://files.leadrdrk.com/hachimi/umatl-sd-only/localized_data",
-  "zip_url": "https://files.leadrdrk.com/hachimi/umatl-sd-only.zip",
+  "base_url": "https://raw.githubusercontent.com/UmaTL/hachimi-sd/release/localized_data",
+  "zip_url": "https://codeload.github.com/UmaTL/hachimi-sd/zip/refs/heads/release",
   "zip_dir": "hachimi-sd-release/localized_data",
   "files": [
     {
@@ -10,8 +10,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "c14d919c1830d43d339bde6234be671ee10a66ca110a8b50a1bbd24dc48af651",
-      "size": 337582
+      "hash": "61a0f8daf59209cf86325001890a08481e04b4289ea9fc98cd3d987ed62ecce2",
+      "size": 338825
     }
   ]
 }
